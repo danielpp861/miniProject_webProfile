@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(234, 255, 255);
+}
+
+.header {
+    height: 80px;
+}
+
+.photoBox {
+    display: flex;
+    justify-content: center;
+}
+
+.photo {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.photo:active {
+    transform: translateY(3px);
+}
+
+.photo>a>img {
+    border-radius: 10px;
+
+}
+
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    width: 300px;
+}
+
+p {
+    font-family: 'Jua', sans-serif;
+    height: 7px;
+    font-size: 15px;
+    justify-content: center;
+}

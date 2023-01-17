@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(234, 241, 255);
+}
+
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    width: 300px;
+}
+
+.header {
+    height: 80px;
+}
+
+.contents {
+    border-radius: 30px;
+    background-color: rgb(255, 246, 234);
+    margin-right: 5px;
+    padding: 0px 10px 10px 10px;
+    box-shadow: 0 4px 6px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.contentA {
+    height: auto;
+    padding-left: 20px;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 15px;
+}
+
+.contentB {
+    height: auto;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    font-size: 15px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+h3 {
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+p {
+    line-height: 30px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
